@@ -1,1 +1,2 @@
 sample text added to verify remote and local repo
+sample text for branching
